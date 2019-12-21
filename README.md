@@ -31,7 +31,7 @@ $ git clone https://github.com/Adelblande/Incidents.git
 # Clone o repositório do Front
 $ git clone https://github.com/Adelblande/incidents-front.git
 
-# Navegue até a pasta Mobly-Back do projeto clonado
+# Navegue até a pasta Incidents do projeto clonado
 $ cd Incidents
 
 # Execute o comando para subir os containers
@@ -76,7 +76,7 @@ $ yarn start
 Espero que à essa altura já esteja tudo funcionando perfeitamente,
 Vc vera a tela inicial no seu navegador como na imagem abaixo.
 
-<img alt="Tela inicial" src="https://github.com/Adelblande/Incidents/blob/master/assets/Tela_inicial.png" width="250">
+<img alt="Tela inicial" src="https://github.com/Adelblande/Incidents/blob/master/assets/Tela_inicial.png" width="900">
 
 Qualquer dúvida só me ligar.
 
