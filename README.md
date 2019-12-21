@@ -74,8 +74,9 @@ $ yarn start
 ```
 
 Espero que à essa altura já esteja tudo funcionando perfeitamente,
-Vc vera abaixo se abrir no seu navegador
-<img alt="Laravel" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/laravel.svg" width="250">
+Vc vera a tela inicial no seu navegador como na imagem abaixo.
+
+<img alt="Tela inicial" src="https://github.com/Adelblande/Incidents/blob/master/assets/Tela_inicial.png" width="250">
 
 Qualquer dúvida só me ligar.
 
