@@ -2,11 +2,11 @@
 
 <p align="center">
  
- <img alt="Laravel" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/laravel.svg" width="250">
- <img alt="Mysql" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/mysql.jpeg" width="200">
- <img alt="React" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/react.jpeg" width="70">
- <img alt="React Router Dom" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/router.jpeg" width="110">
- <img alt="Docker" src="https://github.com/Adelblande/Mobly-Back/blob/master/assets/docker.jpeg" width="200">
+ <img alt="Laravel" src="https://github.com/Adelblande/Incidents/blob/master/assets/laravel.svg" width="250">
+ <img alt="Mysql" src="https://github.com/Adelblande/Incidents/blob/master/assets/mysql.jpeg" width="200">
+ <img alt="React" src="https://github.com/Adelblande/Incidents/blob/master/assets/react.jpeg" width="70">
+ <img alt="React Router Dom" src="https://github.com/Adelblande/Incidents/blob/master/assets/router.jpeg" width="110">
+ <img alt="Docker" src="https://github.com/Adelblande/Incidents/blob/master/assets/docker.jpeg" width="200">
 </p>
 
 <p align="center">
